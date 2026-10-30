@@ -1,0 +1,13 @@
+{
+  "schema": "deepchat.skinpack/1",
+  "name": "我的皮肤包",
+  "author": "我",
+  "skins": [
+    {
+      "id": "mine-1", "name": "我的极光", "mode": "dark",
+      "bg": "#061014", "surface": "#0d1c22", "border": "#183039",
+      "text": "#e2f4f7", "dim": "#9ab6bd", "mute": "#6d8b93",
+      "accent": "#2dd4bf", "accent2": "#a3e635"
+    }
+  ]
+}
